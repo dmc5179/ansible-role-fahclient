@@ -1,5 +1,4 @@
 ---
- 
 fah_client_pkgs:
   Debian:
     '7.4.16': 'https://download.foldingathome.org/releases/beta/release/fahclient/debian-stable-64bit/v7.4/fahclient_7.4.16_amd64.deb'
