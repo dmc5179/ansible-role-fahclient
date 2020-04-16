@@ -1,7 +1,7 @@
 galaxy_info:
-  playbook_name: fah
+  playbook_name: fahclient
   author: Dan Clark
-  description: this is a simple playbook that installs and configures the Folding-at-Home client on RHEL/CentOS hosts
+  description: this is a simple playbook that installs and configures the Folding-at-Home client on Linux hosts
   company: Red Hat
 
   license: GPLv3
