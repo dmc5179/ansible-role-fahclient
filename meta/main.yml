@@ -1,6 +1,6 @@
 galaxy_info:
   playbook_name: fah
-  author: Alexander Jacocks
+  author: Dan Clark
   description: this is a simple playbook that installs and configures the Folding-at-Home client on RHEL/CentOS hosts
   company: Red Hat
 
